@@ -132,6 +132,23 @@ _Tabela resumida com os principais dados dos atletas._
 
 ---
 
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MarissaBorges">
+        <img src="https://github.com/MarissaBorges.png?size=100" width="100px;" alt="Foto de Marissa Borges"/><br>
+        <sub>
+          <b>Marissa Borges</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📫 Como Contribuir
 
 1. Faça um **Fork** do projeto.
